@@ -15,9 +15,10 @@ export default {
         textColor: "#4E545F",
         greenColor: "0fb9b1",
         berryColor: "#B53471",
-        greenColor: "#009432",
+        green1Color: "#009432",
         lightGreen: "#26de81",
-        paleGreen: "#1abc9c"
+        paleGreen: "#1abc9c",
+        lightblue: "#0abde3",
       },
       boxShadow: {
         panelShadow: "rgba(17, 12, 46, 0.15) 0px 48px 100px 0px;",
